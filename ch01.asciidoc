@@ -97,7 +97,7 @@ Each of these stories is based on the real people and real industries currently 
 [role="pagebreak-before"]
 Bitcoin wallets can be categorized as follows, according to the platform:
 
-Desktop wallet:: A desktop wallet was the first type of bitcoin wallet created as a reference implementation and many users run desktop wallets for the features, autonomy, and control they offer. Running on general-use operating systems such as Windows and Mac OS has certain security disadvantages however, as these platforms are often insecure and poorly configured.
+Desktop wallet:: A desktop wallet was the first type of bitcoin wallet created as a reference implementation and many users run desktop wallets for the features, autonomy, and control they offer. However, running on general-use operating systems such as Windows and Mac OS has certain security disadvantages, as these platforms are often insecure and poorly configured.
 
 Mobile wallet:: A mobile wallet is the most common type of bitcoin wallet. Running on smart-phone operating systems such as Apple iOS and Android, these wallets are often a great choice for new users. Many are designed for simplicity and ease-of-use, but there are also fully featured mobile wallets for power users.
 
